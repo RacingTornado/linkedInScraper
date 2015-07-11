@@ -1,5 +1,20 @@
 LinkedIn Scraper
 ================
+To install this have python 2.7 in your path. Use the rapid Environment Editor to get it to work. Then install pycharm from JEtbrains which is 
+a very good oython IDE.
+Python 2.7.10 comes with pip installed so nothing else is required.
+If you have multiple python interpreters set the correct one using project interpreter in pycharm
+Install the service_identity module
+Install pywin32 executable for the same verison (32/64) python as you have installed. To check which version you have type python at the console
+and look at this http://stackoverflow.com/questions/1405913/how-do-i-determine-if-my-python-shell-is-executing-in-32bit-or-64bit-mode-on-os/10966396#10966396
+If your using pycharm and want softwrapping enabled hit view , active editor use soft wrpas.
+This project will use Kivy for its python user interface.
+
+
+
+
+
+
 
 Juneki Hong 
 
