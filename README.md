@@ -1,7 +1,7 @@
 LinkedIn Scraper
 ================
-To install this have python 2.7 in your path. Use the rapid Environment Editor to get it to work. Then install pycharm from JEtbrains which is 
-a very good oython IDE.
+To install this have python 2.7 in your path. Use the rapid Environment Editor to get it to work. Then install pycharm from Jetbrains which is 
+a very good python IDE.
 Python 2.7.10 comes with pip installed so nothing else is required.
 If you have multiple python interpreters set the correct one using project interpreter in pycharm
 Install the service_identity module
